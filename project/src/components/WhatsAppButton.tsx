@@ -1,6 +1,6 @@
-import { MessageCircle } from 'lucide-react';
 import { useLang } from '@/hooks/useLang';
 import { whatsappUrl } from '@/utils/whatsapp';
+import { WhatsAppIcon } from './WhatsAppIcon';
 
 export function WhatsAppButton() {
   const { t } = useLang();
@@ -12,7 +12,7 @@ export function WhatsAppButton() {
       className="whatsapp-float"
       aria-label="Chat on WhatsApp"
     >
-      <MessageCircle size={28} fill="currentColor" />
+      <WhatsAppIcon size={28} />
     </a>
   );
 }

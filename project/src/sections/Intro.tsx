@@ -12,7 +12,6 @@ export function Intro() {
         <div className="intro-grid">
           <div className="intro-image">
             <img src={IMG.teaWoman} alt="Tea plantation worker in Sri Lanka" />
-            <div className="intro-image-frame" />
           </div>
           <div className="intro-content">
             <p className="eyebrow"><span /> Ceylon Soul Travels</p>

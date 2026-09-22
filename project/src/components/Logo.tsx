@@ -21,7 +21,9 @@ export function Logo({ size = 'sm', full = false }: LogoProps) {
 
   return (
     <div className={`brand-mark brand-mark-${size}`} aria-label="Ceylon Soul Travels">
-      <img src={logoIcon} alt="" className="brand-logo-img" />
+      <span className="brand-logo-badge">
+        <img src={logoIcon} alt="" className="brand-logo-img" />
+      </span>
       <div className="brand-text">
         <span className="brand-name">Ceylon Soul</span>
         <span className="brand-subtitle">Travels</span>
