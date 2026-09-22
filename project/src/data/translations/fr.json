@@ -1,0 +1,218 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "tours": "Circuits & Expériences",
+    "whySriLanka": "Pourquoi le Sri Lanka",
+    "gallery": "Galerie",
+    "reviews": "Avis",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "Expériences Authentiques du Sri Lanka",
+    "title": "Découvrez l'Âme du Sri Lanka",
+    "subtitle": "Voyagez au-delà de l'ordinaire et découvrez le Sri Lanka à travers ses paysages, sa culture, sa cuisine, sa faune et les gens qui appellent cette île leur maison.",
+    "ctaPrimary": "Commencez Votre Voyage",
+    "ctaSecondary": "Explorer les Expériences",
+    "indicator1": "Expériences Locales Authentiques",
+    "indicator2": "Voyages Privés & Personnalisés",
+    "indicator3": "Support en Anglais & Français",
+    "scroll": "Faites Défiler pour Explorer",
+    "trustText": "Engagés pour une Expérience 5 Étoiles"
+  },
+  "intro": {
+    "heading": "Voyager Au-delà de la Destination",
+    "body1": "Ceylon Soul Travels est né d'une conviction simple : voyager, c'est comme rencontrer quelqu'un, pas seulement visiter un endroit.",
+    "body2": "Nous sommes une équipe d'hôtes, de guides et de conteurs sri-lankais qui ouvrent les portes de notre île — ses montagnes brumeuses, ses cuisines d'épices, ses savanes sauvages et ses villages tranquilles — avec chaleur et souci du détail.",
+    "cta": "Découvrir Notre Histoire"
+  },
+  "whyUs": {
+    "heading": "Le Sri Lanka, Vécu Autrement",
+    "features": [
+      { "title": "Expériences Locales Authentiques", "description": "Découvrez l'île au-delà des circuits touristiques habituels." },
+      { "title": "Voyages Personnalisés", "description": "Des expériences conçues selon vos intérêts, préférences et rythme." },
+      { "title": "Culture, Nature & Aventure", "description": "Découvrez le patrimoine, les paysages, la faune, la cuisine et la vie locale." },
+      { "title": "Assistance Personnelle de Voyage", "description": "Communication facile via WhatsApp et email." }
+    ]
+  },
+  "perks": {
+    "eyebrow": "Ceylon Soul Travels",
+    "heading": "Des Attentions Pensées pour Vous",
+    "subtitle": "De petites attentions qui rendent chaque demande et chaque voyage plus personnel.",
+    "items": [
+      { "title": "Itinéraires Personnalisés", "description": "Chaque voyage façonné selon vos intérêts, votre rythme et vos dates de voyage." },
+      { "title": "Support WhatsApp & Email", "description": "Contactez-nous directement et recevez une réponse chaleureuse, pas automatisée." },
+      { "title": "Accompagnement en Anglais & Français", "description": "Planifiez et voyagez confortablement dans la langue de votre choix." },
+      { "title": "Expertise Locale de Confiance", "description": "De vrais hôtes sri-lankais qui connaissent l'île au-delà du guide touristique." }
+    ]
+  },
+  "experiences": {
+    "heading": "Des Voyages Faits pour Vous",
+    "subtitle": "Des royaumes anciens aux plages tropicales, découvrez des expériences qui révèlent les multiples visages du Sri Lanka.",
+    "cta": "Explorer Toutes les Expériences"
+  },
+  "tours": {
+    "heading": "Voyages en Vedette",
+    "subtitle": "Chaque voyage est un chapitre du Sri Lanka, prêt à être vécu.",
+    "explore": "Explorer le Voyage",
+    "exploreAll": "Voir Tous les Voyages",
+    "from": "À partir de",
+    "duration": "Durée",
+    "destination": "Destination",
+    "highlights": "Points Forts",
+    "inclusions": "Inclus",
+    "exclusions": "Non Inclus",
+    "itinerary": "Itinéraire",
+    "gallery": "Galerie",
+    "enquireNow": "Demander Maintenant",
+    "whatsappEnquiry": "Demande WhatsApp",
+    "backToTours": "Retour aux Voyages",
+    "signature": "Voyage Signature"
+  },
+  "whySriLanka": {
+    "heading": "Pourquoi le Sri Lanka ?",
+    "subtitle": "Une petite île avec une âme immensément grande.",
+    "items": [
+      { "title": "Plages & Couchers de Soleil", "description": "Rives bordées de palmiers et lumière dorée." },
+      { "title": "Montagnes & Cascades", "description": "Sommets brumeux et chutes d'eau dans les hautes terres." },
+      { "title": "Villes Anciennes & Temples", "description": "Des siècles d'histoire gravés dans la pierre." },
+      { "title": "Forêts Lush & Faune", "description": "Forêts tropicales, savanes et éléphants sauvages." },
+      { "title": "Villages Locaux", "description": "Rencontrez ceux qui donnent leur cœur à l'île." },
+      { "title": "Mode de Vie Traditionnel", "description": "Une façon de vivre inchangée depuis des générations." },
+      { "title": "Cuisine & Saveurs Traditionnelles", "description": "Épices, chaleur, douceur et tout ce qui est local." },
+      { "title": "Hospitalité Sri-Lankaise", "description": "L'accueil le plus chaleureux que vous connaîtrez." },
+      { "title": "Expériences Locales Authentiques", "description": "Allez au-delà du guide et dans la vraie vie." }
+    ]
+  },
+  "story": {
+    "heading": "L'Île a Beaucoup d'Histoires",
+    "body": "Des montagnes brumeuses aux plages dorées,\ndes royaumes anciens aux cuisines villageoises,\nle Sri Lanka vous invite à ralentir,\nà vous connecter et à vivre quelque chose de réel.",
+    "cta": "Créer Mon Voyage"
+  },
+  "gallery": {
+    "heading": "Moments du Sri Lanka",
+    "subtitle": "Une galerie vivante des multiples visages de l'île.",
+    "categories": {
+      "all": "Tout",
+      "nature": "Nature & Paysages",
+      "beaches": "Plages & Couchers de Soleil",
+      "mountains": "Montagnes & Cascades",
+      "tea": "Plantations de Thé",
+      "roads": "Routes Panoramiques",
+      "heritage": "Culture & Patrimoine",
+      "villages": "Villages Locaux",
+      "festivals": "Festivals Traditionnels",
+      "wildlife": "Faune",
+      "food": "Cuisine & Saveurs Locales"
+    }
+  },
+  "reviews": {
+    "heading": "Souvenirs d'Hôtes",
+    "subtitle": "De vrais voyages. De vrais souvenirs.",
+    "previous": "Précédent",
+    "next": "Suivant"
+  },
+  "customCta": {
+    "heading": "Votre Sri Lanka. Votre Façon.",
+    "body": "Dites-nous ce que vous imaginez, et nous vous aiderons à façonner votre voyage sri-lankais selon vos intérêts, dates et style de voyage.",
+    "cta": "Planifier Mon Voyage"
+  },
+  "enquiry": {
+    "title": "Parlez-nous de Votre Voyage",
+    "heading": "Commencez Votre Voyage",
+    "subheading": "Dites-nous ce qui vous touche.",
+    "fullName": "Nom Complet",
+    "email": "Adresse Email",
+    "country": "Pays",
+    "dates": "Dates de Voyage Préférées",
+    "travellers": "Nombre de Voyageurs",
+    "interestedIn": "Intéressé Par",
+    "message": "Parlez-nous de Votre Voyage",
+    "submit": "Envoyer la Demande",
+    "successTitle": "Merci",
+    "successMessage": "Votre voyage commence ici. Nous vous contacterons sous 48 heures.",
+    "close": "Fermer",
+    "options": {
+      "private": "Circuit Privé",
+      "custom": "Expérience sur Mesure",
+      "nature": "Nature & Faune",
+      "culture": "Culture & Cuisine",
+      "family": "Expérience Familiale"
+    },
+    "selectPlaceholder": "Choisir une option",
+    "namePlaceholder": "ex. Alex Morgan",
+    "emailPlaceholder": "vous@example.com",
+    "countryPlaceholder": "Votre pays",
+    "datesPlaceholder": "ex. Janvier 2027",
+    "travellersPlaceholder": "ex. 2 adultes",
+    "messagePlaceholder": "Dates, lieux, personnes..."
+  },
+  "contact": {
+    "heading": "Contactez-nous",
+    "subtitle": "Nous serions ravis de vous entendre.",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "phone": "Téléphone",
+    "location": "Emplacement",
+    "emailPlaceholder": "hello@ceylonsoultravels.com",
+    "whatsappPlaceholder": "+94 XX XXX XXXX",
+    "phonePlaceholder": "+94 XX XXX XXXX",
+    "locationPlaceholder": "Colombo, Sri Lanka",
+    "followUs": "Suivez-nous",
+    "sendEnquiry": "Envoyer la Demande"
+  },
+  "faq": {
+    "heading": "Questions Fréquentes",
+    "subtitle": "Tout ce que vous devez savoir avant de voyager."
+  },
+  "footer": {
+    "tagline": "Voyages Authentiques. Souvenirs Éternels.",
+    "explore": "Explorer",
+    "experiences": "Expériences",
+    "contact": "Contact",
+    "language": "Langue",
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Termes & Conditions"
+  },
+  "whatsapp": {
+    "message": "Bonjour Ceylon Soul Travels, je voudrais en savoir plus sur vos expériences de voyage au Sri Lanka."
+  },
+  "about": {
+    "heroTitle": "Notre Histoire",
+    "heroSubtitle": "Né à Ceylan. Fait pour le monde.",
+    "storyHeading": "Un Voyage qui Commence par les Gens",
+    "storyBody1": "Ceylon Soul Travels a été fondé par un groupe d'amis qui ont grandi en explorant chaque coin de cette île — des collines de thé de Nuwara Eliya aux broussailles sauvages de Yala. Nous voulions partager le Sri Lanka que nous connaissions : pas celui des guides, mais celui de nos souvenirs.",
+    "storyBody2": "Aujourd'hui, nous concevons des voyages privés pour des voyageurs du monde entier. Chaque itinéraire est fait à la main, chaque guide est un ami, et chaque détail est pensé — parce que nous croyons que voyager doit être personnel.",
+    "philosophyHeading": "Notre Philosophie de Voyage",
+    "philosophyBody": "Nous croyons en voyage lent, dans les routes moins fréquentées, les longues conversations autour d'un thé, et la magie d'arriver quelque part de nouveau et de se sentir instantanément chez soi.",
+    "whyHeading": "Pourquoi Voyager Avec Nous",
+    "whyBody": "Nous ne sommes pas une plateforme de réservation. Nous sommes vos hôtes, vos guides et vos amis au Sri Lanka. Quand vous voyagez avec nous, vous voyagez avec des gens qui aiment cette île.",
+    "cta": "Commencez Votre Voyage"
+  },
+  "whySriLankaPage": {
+    "heroTitle": "Pourquoi le Sri Lanka ?",
+    "heroSubtitle": "Une petite île avec une âme immensément grande.",
+    "cta": "Planifier Mon Voyage"
+  },
+  "galleryPage": {
+    "heroTitle": "Moments du Sri Lanka",
+    "heroSubtitle": "Une galerie vivante des multiples visages de l'île."
+  },
+  "reviewsPage": {
+    "heroTitle": "Souvenirs d'Hôtes",
+    "heroSubtitle": "De vrais voyages. De vrais souvenirs.",
+    "cta": "Planifier Votre Voyage"
+  },
+  "contactPage": {
+    "heroTitle": "Contactez-nous",
+    "heroSubtitle": "Nous serions ravis de vous entendre."
+  },
+  "common": {
+    "en": "EN",
+    "fr": "FR",
+    "readMore": "Lire Plus",
+    "viewAll": "Voir Tout",
+    "loading": "Chargement..."
+  }
+}

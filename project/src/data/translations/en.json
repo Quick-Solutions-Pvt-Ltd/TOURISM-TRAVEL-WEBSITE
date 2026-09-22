@@ -1,0 +1,218 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "tours": "Tours & Experiences",
+    "whySriLanka": "Why Sri Lanka",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "Authentic Sri Lankan Experiences",
+    "title": "Discover the Soul of Sri Lanka",
+    "subtitle": "Journey beyond the ordinary and experience Sri Lanka through its landscapes, culture, cuisine, wildlife and the people who call this island home.",
+    "ctaPrimary": "Start Your Journey",
+    "ctaSecondary": "Explore Experiences",
+    "indicator1": "Authentic Local Experiences",
+    "indicator2": "Private & Personalized Journeys",
+    "indicator3": "English & French Support",
+    "scroll": "Scroll to Explore",
+    "trustText": "Committed to 5-Star Experiences"
+  },
+  "intro": {
+    "heading": "Travel Beyond the Destination",
+    "body1": "Ceylon Soul Travels was born from a simple belief: that travel should feel like meeting someone, not just visiting somewhere.",
+    "body2": "We are a team of Sri Lankan hosts, guides and storytellers who open the doors to our island — its mist-wrapped mountains, spice-laden kitchens, wild savannahs and quiet villages — with warmth, care and an eye for the details that turn a trip into a memory.",
+    "cta": "Discover Our Story"
+  },
+  "whyUs": {
+    "heading": "Sri Lanka, Experienced Differently",
+    "features": [
+      { "title": "Authentic Local Experiences", "description": "Experience the island beyond the usual tourist routes." },
+      { "title": "Personalized Journeys", "description": "Travel experiences designed around interests, preferences and pace." },
+      { "title": "Culture, Nature & Adventure", "description": "Discover heritage, landscapes, wildlife, food and local life." },
+      { "title": "Personal Travel Assistance", "description": "Easy communication through WhatsApp and email." }
+    ]
+  },
+  "perks": {
+    "eyebrow": "Ceylon Soul Travels",
+    "heading": "Thoughtful Details, Included",
+    "subtitle": "Small touches that make every enquiry and every journey feel personal.",
+    "items": [
+      { "title": "Personalized Itineraries", "description": "Every journey shaped around your own interests, pace and travel dates." },
+      { "title": "WhatsApp & Email Support", "description": "Reach us directly and hear back with warmth, not automation." },
+      { "title": "English & French Guidance", "description": "Plan and travel comfortably in the language you prefer." },
+      { "title": "Trusted Local Expertise", "description": "Real Sri Lankan hosts who know the island beyond the guidebook." }
+    ]
+  },
+  "experiences": {
+    "heading": "Journeys Made for You",
+    "subtitle": "From ancient kingdoms to tropical beaches, discover experiences that reveal the many sides of Sri Lanka.",
+    "cta": "Explore All Experiences"
+  },
+  "tours": {
+    "heading": "Featured Journeys",
+    "subtitle": "Each journey is a chapter of Sri Lanka, waiting to be lived.",
+    "explore": "Explore Journey",
+    "exploreAll": "View All Journeys",
+    "from": "From",
+    "duration": "Duration",
+    "destination": "Destination",
+    "highlights": "Highlights",
+    "inclusions": "Inclusions",
+    "exclusions": "Exclusions",
+    "itinerary": "Itinerary",
+    "gallery": "Gallery",
+    "enquireNow": "Enquire Now",
+    "whatsappEnquiry": "WhatsApp Enquiry",
+    "backToTours": "Back to All Journeys",
+    "signature": "Signature Journey"
+  },
+  "whySriLanka": {
+    "heading": "Why Sri Lanka?",
+    "subtitle": "A small island with an impossibly big soul.",
+    "items": [
+      { "title": "Beaches & Sunsets", "description": "Palm-fringed shores and golden hour light." },
+      { "title": "Mountains & Waterfalls", "description": "Misty peaks and cascading falls in the cool highlands." },
+      { "title": "Ancient Cities & Temples", "description": "Centuries of history carved in stone." },
+      { "title": "Lush Forests & Wildlife", "description": "Rainforests, savannahs and wild elephants." },
+      { "title": "Local Villages", "description": "Meet the people who give the island its heart." },
+      { "title": "Traditional Lifestyle", "description": "A way of life unchanged for generations." },
+      { "title": "Traditional Food & Flavours", "description": "Spice, heat, sweetness and everything local." },
+      { "title": "Sri Lankan Hospitality", "description": "The warmest welcome you will ever know." },
+      { "title": "Authentic Local Experiences", "description": "Go beyond the guidebook and into real life." }
+    ]
+  },
+  "story": {
+    "heading": "The Island Has Many Stories",
+    "body": "From mist-covered mountains to golden beaches,\nfrom ancient kingdoms to village kitchens,\nSri Lanka invites you to slow down,\nconnect and experience something real.",
+    "cta": "Create My Journey"
+  },
+  "gallery": {
+    "heading": "Moments From Sri Lanka",
+    "subtitle": "A living gallery of the island's many faces.",
+    "categories": {
+      "all": "All",
+      "nature": "Nature & Landscapes",
+      "beaches": "Beaches & Sunsets",
+      "mountains": "Mountains & Waterfalls",
+      "tea": "Tea Plantations",
+      "roads": "Scenic Roads",
+      "heritage": "Culture & Heritage",
+      "villages": "Local Villages",
+      "festivals": "Traditional Festivals",
+      "wildlife": "Wildlife",
+      "food": "Food & Local Flavours"
+    }
+  },
+  "reviews": {
+    "heading": "Guest Memories",
+    "subtitle": "Real journeys. Real memories.",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "customCta": {
+    "heading": "Your Sri Lanka. Your Way.",
+    "body": "Tell us what you imagine, and we'll help shape your Sri Lankan journey around your interests, travel dates and travel style.",
+    "cta": "Plan My Journey"
+  },
+  "enquiry": {
+    "title": "Tell Us About Your Trip",
+    "heading": "Begin Your Journey",
+    "subheading": "Tell us what moves you.",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "country": "Country",
+    "dates": "Preferred Travel Dates",
+    "travellers": "Number of Travellers",
+    "interestedIn": "Interested In",
+    "message": "Tell Us About Your Trip",
+    "submit": "Send Enquiry",
+    "successTitle": "Thank You",
+    "successMessage": "Your journey begins here. We will be in touch within 48 hours.",
+    "close": "Close",
+    "options": {
+      "private": "Private Tour",
+      "custom": "Custom Experience",
+      "nature": "Nature & Wildlife",
+      "culture": "Culture & Food",
+      "family": "Family Experience"
+    },
+    "selectPlaceholder": "Select an option",
+    "namePlaceholder": "e.g. Alex Morgan",
+    "emailPlaceholder": "you@example.com",
+    "countryPlaceholder": "Your country",
+    "datesPlaceholder": "e.g. January 2027",
+    "travellersPlaceholder": "e.g. 2 adults",
+    "messagePlaceholder": "Dates, places, people..."
+  },
+  "contact": {
+    "heading": "Get in Touch",
+    "subtitle": "We would love to hear from you.",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "phone": "Phone",
+    "location": "Location",
+    "emailPlaceholder": "hello@ceylonsoultravels.com",
+    "whatsappPlaceholder": "+94 XX XXX XXXX",
+    "phonePlaceholder": "+94 XX XXX XXXX",
+    "locationPlaceholder": "Colombo, Sri Lanka",
+    "followUs": "Follow Us",
+    "sendEnquiry": "Send Enquiry"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know before you travel."
+  },
+  "footer": {
+    "tagline": "Authentic Journeys. Timeless Memories.",
+    "explore": "Explore",
+    "experiences": "Experiences",
+    "contact": "Contact",
+    "language": "Language",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions"
+  },
+  "whatsapp": {
+    "message": "Hello Ceylon Soul Travels, I would like to know more about your Sri Lanka travel experiences."
+  },
+  "about": {
+    "heroTitle": "Our Story",
+    "heroSubtitle": "Born in Ceylon. Made for the world.",
+    "storyHeading": "A Journey That Begins With People",
+    "storyBody1": "Ceylon Soul Travels was founded by a group of friends who grew up exploring every corner of this island — from the tea-clad hills of Nuwara Eliya to the wild scrub of Yala. We wanted to share the Sri Lanka we knew: not the one in guidebooks, but the one in our memories.",
+    "storyBody2": "Today, we design private journeys for travellers from around the world. Every itinerary is crafted by hand, every guide is a friend, and every detail is considered — because we believe travel should feel personal.",
+    "philosophyHeading": "Our Travel Philosophy",
+    "philosophyBody": "We believe in slow travel, in taking the road less traveled, in long conversations over tea, and in the magic of arriving somewhere new and feeling instantly at home.",
+    "whyHeading": "Why Travel With Us",
+    "whyBody": "We are not a booking platform. We are your hosts, your guides and your friends in Sri Lanka. When you travel with us, you travel with people who love this island and want you to love it too.",
+    "cta": "Start Your Journey"
+  },
+  "whySriLankaPage": {
+    "heroTitle": "Why Sri Lanka?",
+    "heroSubtitle": "A small island with an impossibly big soul.",
+    "cta": "Plan My Journey"
+  },
+  "galleryPage": {
+    "heroTitle": "Moments From Sri Lanka",
+    "heroSubtitle": "A living gallery of the island's many faces."
+  },
+  "reviewsPage": {
+    "heroTitle": "Guest Memories",
+    "heroSubtitle": "Real journeys. Real memories.",
+    "cta": "Plan Your Journey"
+  },
+  "contactPage": {
+    "heroTitle": "Get in Touch",
+    "heroSubtitle": "We would love to hear from you."
+  },
+  "common": {
+    "en": "EN",
+    "fr": "FR",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "loading": "Loading..."
+  }
+}
