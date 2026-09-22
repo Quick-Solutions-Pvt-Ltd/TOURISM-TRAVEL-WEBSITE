@@ -5,6 +5,7 @@ import { reviews } from '@/data/content';
 import { TestimonialCarousel } from '@/components/TestimonialCarousel';
 import { Star } from 'lucide-react';
 import { IMG } from '@/data/images';
+import { Avatar } from '@/components/Avatar';
 
 export function ReviewsPage() {
   const { t, lang } = useLang();
@@ -31,11 +32,12 @@ export function ReviewsPage() {
                 </div>
                 <p className="review-text">"{isFr ? review.textFr : review.text}"</p>
                 <div className="review-author">
-                  {review.photo ? (
-                    <img src={review.photo} alt={review.name} className="review-photo" />
-                  ) : (
-                    <div className="review-avatar">{review.name.charAt(0)}</div>
-                  )}
+                  <Avatar
+                    src={review.photo}
+                    name={review.name}
+                    className="review-photo"
+                    fallbackClassName="review-avatar"
+                  />
                   <div>
                     <strong>{review.name}</strong>
                     <span>{isFr ? review.countryFr : review.country}</span>

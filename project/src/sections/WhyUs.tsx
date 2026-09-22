@@ -17,7 +17,7 @@ export function WhyUs() {
             return (
               <div key={i} className="why-us-card">
                 <span className="why-us-number">0{i + 1}</span>
-                <div className="why-us-icon"><Icon size={28} strokeWidth={1.5} /></div>
+                <div className="why-us-icon"><Icon size={26} strokeWidth={2} /></div>
                 <h3>{feature.title}</h3>
                 <p>{feature.description}</p>
               </div>

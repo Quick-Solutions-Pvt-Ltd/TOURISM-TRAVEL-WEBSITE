@@ -2,6 +2,7 @@ import { useState, useEffect, useCallback } from 'react';
 import { ChevronLeft, ChevronRight, Star } from 'lucide-react';
 import type { Review } from '@/data/types';
 import { useLang } from '@/hooks/useLang';
+import { Avatar } from '@/components/Avatar';
 
 interface TestimonialCarouselProps {
   reviews: Review[];
@@ -33,11 +34,12 @@ export function TestimonialCarousel({ reviews }: TestimonialCarouselProps) {
         </div>
         <blockquote className="testimonial-text">"{isFr ? review.textFr : review.text}"</blockquote>
         <div className="testimonial-author">
-          {review.photo ? (
-            <img src={review.photo} alt={review.name} className="testimonial-photo" />
-          ) : (
-            <div className="testimonial-avatar">{review.name.charAt(0)}</div>
-          )}
+          <Avatar
+            src={review.photo}
+            name={review.name}
+            className="testimonial-photo"
+            fallbackClassName="testimonial-avatar"
+          />
           <div className="testimonial-info">
             <strong>{review.name}</strong>
             <span>{isFr ? review.countryFr : review.country}</span>

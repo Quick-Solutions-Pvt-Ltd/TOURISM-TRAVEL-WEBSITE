@@ -1,5 +1,6 @@
 import { useParams, Link, Navigate } from 'react-router-dom';
-import { ArrowLeft, MapPin, Clock, Check, X, MessageCircle } from 'lucide-react';
+import { ArrowLeft, MapPin, Clock, Check, X } from 'lucide-react';
+import { WhatsAppIcon } from '@/components/WhatsAppIcon';
 import { useLang } from '@/hooks/useLang';
 import { useEnquiry } from '@/hooks/useEnquiry';
 import { tours } from '@/data/content';
@@ -87,7 +88,7 @@ export function TourDetailPage() {
                   rel="noopener noreferrer"
                   className="btn btn-outline btn-full"
                 >
-                  <MessageCircle size={16} /> {t.tours.whatsappEnquiry}
+                  <WhatsAppIcon size={16} /> {t.tours.whatsappEnquiry}
                 </a>
               </div>
 

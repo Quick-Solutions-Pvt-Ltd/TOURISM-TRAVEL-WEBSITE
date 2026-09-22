@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
-import { ArrowRight, MapPin, Clock, MessageCircle } from 'lucide-react';
+import { ArrowRight, MapPin, Clock } from 'lucide-react';
+import { WhatsAppIcon } from './WhatsAppIcon';
 import type { Tour } from '@/data/types';
 import { useLang } from '@/hooks/useLang';
 import { whatsappUrl } from '@/utils/whatsapp';
@@ -38,7 +39,7 @@ export function TourCard({ tour }: TourCardProps) {
             className="tour-card-whatsapp"
             aria-label="WhatsApp enquiry"
           >
-            <MessageCircle size={16} />
+            <WhatsAppIcon size={16} />
           </a>
         </div>
       </div>
