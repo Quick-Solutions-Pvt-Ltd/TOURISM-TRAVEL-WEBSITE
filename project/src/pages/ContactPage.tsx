@@ -1,4 +1,5 @@
-import { Mail, MessageCircle, Phone, MapPin, Instagram, Facebook, Send } from 'lucide-react';
+import { Mail, Phone, MapPin, Instagram, Facebook, Send } from 'lucide-react';
+import { WhatsAppIcon } from '@/components/WhatsAppIcon';
 import { PageHero } from '@/components/PageHero';
 import { FaqAccordion } from '@/components/FaqAccordion';
 import { useLang } from '@/hooks/useLang';
@@ -6,6 +7,7 @@ import { faqItems } from '@/data/content';
 import { whatsappUrl } from '@/utils/whatsapp';
 import { useState, type FormEvent } from 'react';
 import { IMG } from '@/data/images';
+import { LocationMap } from '@/components/LocationMap';
 
 export function ContactPage() {
   const { t } = useLang();
@@ -37,7 +39,7 @@ export function ContactPage() {
                   <div><strong>{t.contact.email}</strong><span>{t.contact.emailPlaceholder}</span></div>
                 </a>
                 <a href={whatsappUrl()} target="_blank" rel="noopener noreferrer">
-                  <MessageCircle size={18} />
+                  <WhatsAppIcon size={18} />
                   <div><strong>{t.contact.whatsapp}</strong><span>{t.contact.whatsappPlaceholder}</span></div>
                 </a>
                 <div className="contact-item-static">
@@ -111,11 +113,7 @@ export function ContactPage() {
             </div>
           </div>
           <div className="contact-page-map">
-            <div className="map-placeholder">
-              <MapPin size={40} />
-              <span>{t.contact.locationPlaceholder}</span>
-              <small>Google Maps placeholder</small>
-            </div>
+            <LocationMap address={t.contact.locationPlaceholder} height={400} />
           </div>
         </div>
       </section>

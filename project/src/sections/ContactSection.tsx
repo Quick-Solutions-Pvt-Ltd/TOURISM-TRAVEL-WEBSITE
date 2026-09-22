@@ -1,7 +1,9 @@
-import { Mail, MessageCircle, Phone, MapPin, Instagram, Facebook } from 'lucide-react';
+import { Mail, Phone, MapPin, Instagram, Facebook } from 'lucide-react';
+import { WhatsAppIcon } from '@/components/WhatsAppIcon';
 import { useLang } from '@/hooks/useLang';
 import { useEnquiry } from '@/hooks/useEnquiry';
 import { whatsappUrl } from '@/utils/whatsapp';
+import { LocationMap } from '@/components/LocationMap';
 
 export function ContactSection() {
   const { t } = useLang();
@@ -20,7 +22,7 @@ export function ContactSection() {
                 <div><strong>{t.contact.email}</strong><span>{t.contact.emailPlaceholder}</span></div>
               </a>
               <a href={whatsappUrl()} target="_blank" rel="noopener noreferrer">
-                <MessageCircle size={18} />
+                <WhatsAppIcon size={18} />
                 <div><strong>{t.contact.whatsapp}</strong><span>{t.contact.whatsappPlaceholder}</span></div>
               </a>
               <div className="contact-item-static">
@@ -39,11 +41,7 @@ export function ContactSection() {
             </div>
           </div>
           <div className="contact-map">
-            <div className="map-placeholder">
-              <MapPin size={40} />
-              <span>{t.contact.locationPlaceholder}</span>
-              <small>Google Maps placeholder</small>
-            </div>
+            <LocationMap address={t.contact.locationPlaceholder} height={340} />
           </div>
         </div>
         <div className="contact-cta">

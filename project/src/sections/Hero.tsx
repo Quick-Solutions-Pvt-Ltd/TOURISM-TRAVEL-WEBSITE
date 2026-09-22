@@ -3,6 +3,7 @@ import { ArrowRight, Star, ChevronDown } from 'lucide-react';
 import { useLang } from '@/hooks/useLang';
 import { useEnquiry } from '@/hooks/useEnquiry';
 import { IMG } from '@/data/images';
+import { Avatar } from '@/components/Avatar';
 
 export function Hero() {
   const { t } = useLang();
@@ -28,10 +29,10 @@ export function Hero() {
         </div>
         <div className="hero-trust">
           <div className="hero-trust-avatars">
-            <img src={IMG.guest1} alt="" />
-            <img src={IMG.guest2} alt="" />
-            <img src={IMG.guest3} alt="" />
-            <img src={IMG.guest4} alt="" />
+            <Avatar src={IMG.guest1} name="A" className="" fallbackClassName="hero-trust-avatar-fallback" />
+            <Avatar src={IMG.guest2} name="B" className="" fallbackClassName="hero-trust-avatar-fallback" />
+            <Avatar src={IMG.guest3} name="C" className="" fallbackClassName="hero-trust-avatar-fallback" />
+            <Avatar src={IMG.guest4} name="D" className="" fallbackClassName="hero-trust-avatar-fallback" />
           </div>
           <div className="hero-trust-badge">
             <span className="hero-trust-stars">

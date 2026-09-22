@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
-import { Instagram, Facebook, Mail, MessageCircle, MapPin } from 'lucide-react';
+import { Instagram, Facebook, Mail, MapPin } from 'lucide-react';
+import { WhatsAppIcon } from './WhatsAppIcon';
 import { Logo } from './Logo';
 import { useLang } from '@/hooks/useLang';
 import { whatsappUrl } from '@/utils/whatsapp';
@@ -36,7 +37,7 @@ export function Footer() {
         <div className="footer-col">
           <span className="footer-heading">{t.footer.contact}</span>
           <a href="mailto:hello@ceylonsoultravels.com"><Mail size={14} /> {t.contact.emailPlaceholder}</a>
-          <a href={whatsappUrl()} target="_blank" rel="noopener noreferrer"><MessageCircle size={14} /> {t.contact.whatsappPlaceholder}</a>
+          <a href={whatsappUrl()} target="_blank" rel="noopener noreferrer"><WhatsAppIcon size={14} /> {t.contact.whatsappPlaceholder}</a>
           <span className="footer-location"><MapPin size={14} /> {t.contact.locationPlaceholder}</span>
           <div className="footer-social">
             <a href="#" aria-label="Instagram"><Instagram size={18} /></a>

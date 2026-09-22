@@ -1,7 +1,8 @@
-import { Sparkles, MessageCircle, Languages, ShieldCheck } from 'lucide-react';
+import { Sparkles, Languages, ShieldCheck } from 'lucide-react';
+import { WhatsAppIcon } from '@/components/WhatsAppIcon';
 import { useLang } from '@/hooks/useLang';
 
-const icons = [Sparkles, MessageCircle, Languages, ShieldCheck];
+const icons = [Sparkles, WhatsAppIcon, Languages, ShieldCheck];
 
 export function Perks() {
   const { t } = useLang();
@@ -17,7 +18,7 @@ export function Perks() {
             const Icon = icons[i];
             return (
               <div key={i} className="perk-card">
-                <div className="perk-icon"><Icon size={26} strokeWidth={1.5} /></div>
+                <div className="perk-icon"><Icon size={24} strokeWidth={2} /></div>
                 <h3>{item.title}</h3>
                 <p>{item.description}</p>
               </div>
